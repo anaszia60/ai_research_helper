@@ -145,5 +145,9 @@ def catch_all(path):
     """Catch all other routes and redirect to home"""
     return render_template_string(HTML_TEMPLATE)
 
+# Vercel requires this export
+app.debug = False
+
+# Export the app for Vercel
 if __name__ == '__main__':
     app.run(debug=False)
