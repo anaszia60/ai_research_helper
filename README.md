@@ -199,19 +199,19 @@ Summary and future work...
 \end{document}
 ```
 
-## 🚀 Performance & Scalability
+## 🚀 Performance & Capabilities
 
-### Current Capabilities
+### Current Features
 - **Processing Speed**: Generates papers in 2-5 minutes
 - **Content Quality**: Academic-grade research structure
-- **User Load**: Handles multiple concurrent users
+- **Local Processing**: Runs entirely on your machine
 - **Memory Usage**: Efficient resource utilization
 
-### Optimization Features
-- **Async Processing**: Non-blocking AI operations
-- **Caching**: Reuses generated content when possible
-- **Error Recovery**: Graceful handling of API failures
-- **Resource Management**: Efficient memory and CPU usage
+### System Features
+- **Real-time Processing**: Immediate AI responses
+- **Local Storage**: All data stays on your machine
+- **Privacy**: No data sent to external servers
+- **Offline Capable**: Works without internet after setup
 
 ## 🤝 Contributing
 
@@ -261,7 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Planned Features
 - **PDF Generation**: Direct PDF output from LaTeX
 - **Citation Management**: Integration with reference managers
-- **Collaborative Editing**: Multi-user paper development
 - **Template Library**: Pre-built research paper templates
 - **Export Formats**: Word, Markdown, and other formats
 
